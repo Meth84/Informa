@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T23:12:55.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="EDqL7OvLkFDsmHGAGtxu" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T00:40:10.399Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="CRL2vqS0VkqUTeWpVsu2" version="12.9.10" type="github">
   <diagram id="-g_Oz-tY7fFRYqa0gwCi" name="Page-1">
     <mxGraphModel dx="1102" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -398,7 +398,9 @@
           <mxGeometry width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tn0YgLH8ZST3FuE-Vl-8-560" value="addresse" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;rounded=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="680" width="225" height="330" as="geometry" />
+          <mxGeometry x="180" y="680" width="225" height="330" as="geometry">
+            <mxRectangle x="180" y="680" width="90" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tn0YgLH8ZST3FuE-Vl-8-625" value="id                                          serial  " style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=0;fontSize=12;" parent="tn0YgLH8ZST3FuE-Vl-8-560" vertex="1">
           <mxGeometry y="26" width="225" height="30" as="geometry" />
