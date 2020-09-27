@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T21:14:32.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="F-jkuT4ZnMOjO3w1ZwRO" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T21:29:22.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QLtt3A-UM9HcSQ3B8D42" version="13.7.5" type="github">
   <diagram id="upK8v810UNj2lHsSvIBj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
         <mxCell id="hg2XABcTjnhEY5ZHol_Q-2" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="hg2XABcTjnhEY5ZHol_Q-1" vertex="1" connectable="0">
           <mxGeometry width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Gko8IdsCJo7DTho4a3p9-11" value="vechicle_type color char(250)" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;spacingTop=-2;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;strokeColor=#66CC00;" parent="TIXxS3RsBmtFBQWwRAD_-2" vertex="1">
+        <mxCell id="Gko8IdsCJo7DTho4a3p9-11" value="vechicle_type char(250)" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;spacingTop=-2;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;strokeColor=#66CC00;" parent="TIXxS3RsBmtFBQWwRAD_-2" vertex="1">
           <mxGeometry y="156" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Gko8IdsCJo7DTho4a3p9-12" value="FK" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontStyle=1" parent="Gko8IdsCJo7DTho4a3p9-11" vertex="1" connectable="0">
